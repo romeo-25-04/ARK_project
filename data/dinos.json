@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Ankylo",
+        "icon":"30px-Ankylo_Icon.png",
+        "male":false,
+        "female":false
+    },
+    {
+        "name":"Bronto",
+        "icon":"30px-Bronto_Icon.png",
+        "male":false,
+        "female":false
+    }
+]
